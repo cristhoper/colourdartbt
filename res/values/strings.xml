@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">tbt</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="default_temperature">-12°C</string>
+    <string name="default_location">Providencia</string>
+
+    <array name="colors">
+        <item>#6b438f</item>
+        <item>#684690</item>
+        <item>#644892</item>
+        <item>#5d4b94</item>
+        <item>#594e96</item>
+        <item>#545098</item>
+        <item>#4e539b</item>
+        <item>#4a579e</item>
+        <item>#465aa1</item>
+        <item>#415da4</item>
+        <item>#3b60a6</item>
+        <item>#3963a9</item>
+        <item>#3368ac</item>
+        <item>#316aad</item>
+        <item>#2d6fb1</item>
+        <item>#2b72b2</item>
+        <item>#2b75b6</item>
+        <item>#2b77b8</item>
+        <item>#3283b7</item>
+        <item>#328ab4</item>
+        <item>#4899af</item>
+        <item>#5da5b0</item>
+        <item>#71aeae</item>
+        <item>#81b6ae</item>
+        <item>#96c0af</item>
+        <item>#a4c9b1</item>
+        <item>#b3d0b5</item>
+        <item>#bfd6b7</item>
+        <item>#cfe0bf</item>
+        <item>#d8e5c2</item>
+        <item>#e1eac6</item>
+        <item>#ebefcc</item>
+        <item>#f1f4d7</item>
+        <item>#f7f6dc</item>
+        <item>#faf9e6</item>
+        <item>#fefcf0</item>
+        <item>#fefae9</item>
+        <item>#fcf9e2</item>
+        <item>#fff6d4</item>
+        <item>#fff4ce</item>
+        <item>#fff0c3</item>
+        <item>#fdecbb</item>
+        <item>#ffe7b2</item>
+        <item>#fce0a7</item>
+        <item>#fcdc9f</item>
+        <item>#fed491</item>
+        <item>#fdcf8c</item>
+        <item>#fbc782</item>
+        <item>#f9be77</item>
+        <item>#f8b770</item>
+        <item>#f6b168</item>
+        <item>#f5a65d</item>
+        <item>#f39853</item>
+        <item>#f1934f</item>
+        <item>#f18d4b</item>
+        <item>#ef8749</item>
+        <item>#ee8146</item>
+        <item>#ee7f46</item>
+        <item>#ec7b46</item>
+        <item>#ea7442</item>
+        <item>#e86e42</item>
+        <item>#e36740</item>
+        <item>#e06341</item>
+        <item>#de5e41</item>
+        <item>#db5941</item>
+        <item>#d75440</item>
+        <item>#d54e40</item>
+        <item>#d34b3f</item>
+        <item>#cf4541</item>
+        <item>#cc3f42</item>
+        <item>#c93c41</item>
+    </array>
+
+</resources>

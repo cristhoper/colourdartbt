@@ -1,0 +1,54 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/background_layout"
+    android:layout_height="match_parent"
+    android:onClick="onClick"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:id="@+id/temperature_value"
+            style="@style/BorderText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|center_vertical"
+            android:padding="20sp"
+            android:text="@string/default_temperature"
+            android:textSize="30pt" />
+
+        <TextView
+            android:id="@+id/temperature_location"
+            style="@style/BorderText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|top"
+            android:padding="10sp"
+            android:text="@string/default_location"
+            android:textSize="16pt" />
+
+        <TextView
+            android:id="@+id/max_temperature"
+            style="@style/BorderText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|top"
+            android:paddingRight="20sp"
+            android:paddingTop="5sp"
+            android:textSize="12pt" />
+
+        <TextView
+            android:id="@+id/min_temperature"
+            style="@style/BorderText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|bottom"
+            android:paddingBottom="5sp"
+            android:paddingRight="20sp"
+            android:textSize="12pt" />
+    </FrameLayout>
+
+</LinearLayout>
