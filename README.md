@@ -1,4 +1,0 @@
-colourdartbt
-============
-
-Based on colourdar
